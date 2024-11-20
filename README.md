@@ -11,6 +11,5 @@ this script is used to convert video to text video using python.
 
 3.python [replay.py](core%2Freplay.py) run this file to replay the text video.
 
-<video id="video" controls="" preload="none" >
-      <source id="mp4" src="./test.mp4" type="video/mp4">
-</videos>
+![img.png](img.png)
+
