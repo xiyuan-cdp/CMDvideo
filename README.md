@@ -16,3 +16,8 @@ this script is used to convert video to text video using python.
 
 ![img.png](img.png)
 
+后续考虑增加更多功能，如：
+
+- 将视频中的音频同时播放出来？？？
+- 使用gpu加快加载速度？？？
+- 增加更多的视频格式支持？？？ 
